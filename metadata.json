@@ -1,0 +1,5 @@
+{
+  "name": "MDX AI Editor",
+  "description": "A smart Markdown/MDX editor with split-view preview, integrated chart rendering, and AI-powered document generation capabilities.",
+  "requestFramePermissions": []
+}
